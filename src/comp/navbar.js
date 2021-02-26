@@ -64,8 +64,8 @@ export const Nav = () => {
         <NavContainer>
             <Logo>Julian Mayes</Logo>
             <NavLink>
-                <Link>about</Link>
-                <Link>contact</Link>
+{/*                 <Link>about</Link>
+                <Link>contact</Link> */}
 
             </NavLink>
 

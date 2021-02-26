@@ -133,7 +133,7 @@ const Controls =() => {
 const Container = styled.div`
 
 width: 100vw;
-height: 200vh;
+height:100vh;
 position: absolute;
 background: rgb(151, 199, 255);
 display: flex;
